@@ -120,7 +120,9 @@ function moveSnake() {
     stored in the Array snake.body and each part knows its current 
     column/row properties. 
   */
+  repositionSquare(snake.head)
 
+  }
 
 
 
